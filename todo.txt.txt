@@ -1,3 +1,4 @@
 1. Complete assignments
 2. prepare for upcoming test
 3. Finish C programming lab report
+4. Understand about github

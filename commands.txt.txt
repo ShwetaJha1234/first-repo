@@ -1,0 +1,6 @@
+1. git init
+2. git status
+3. git config --global user.name "username"
+4. git config --global user.email "email"
+5. git config --global --list
+6. history
