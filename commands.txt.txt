@@ -4,3 +4,4 @@
 4. git config --global user.email "email"
 5. git config --global --list
 6. history
+7. git add for staging
